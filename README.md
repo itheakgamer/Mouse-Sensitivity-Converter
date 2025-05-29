@@ -1,5 +1,7 @@
 # Mouse Sensitivity Converter - TheAKGamer
 
+[![Mouse-Sensitivity-Converter-and-Calculator-TheAKGamer](https://github.com/user-attachments/assets/d54143ff-0dc2-4057-a2af-f1eede9a96f6)](https://theakgamer.com/mouse-sensitivity-converter-and-calculator/)
+
 Find the tool here:👉 [**Mouse Sensitivity Converter and Calculator**](https://theakgamer.com/mouse-sensitivity-converter-and-calculator/)
 
 ### 🎮 Mouse Sensitivity Converter
